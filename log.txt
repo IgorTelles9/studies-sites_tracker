@@ -1,0 +1,6 @@
+2024-04-26 19:33:31 - http://random-status-code.herokuapp.com/ - online:false
+2024-04-26 19:33:32 - https://www.alura.com.br/ - online:true
+2024-04-26 19:33:32 - http://www.ecosia.org/ - online:false
+2024-04-26 19:33:42 - http://random-status-code.herokuapp.com/ - online:false
+2024-04-26 19:33:43 - https://www.alura.com.br/ - online:true
+2024-04-26 19:33:43 - http://www.ecosia.org/ - online:false
